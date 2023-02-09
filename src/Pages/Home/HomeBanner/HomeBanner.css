@@ -1,0 +1,26 @@
+.banner img {
+  height: 90vh;
+  width: 100vw;
+  position: sticky;
+}
+
+.banner-text {
+  position: absolute;
+  top: 25%;
+  left: 29%;
+}
+
+@media screen and (max-width: 480px) {
+  .banner img {
+    height: 65vh;
+    width: 100vw;
+    position: sticky;
+  }
+  .banner-text {
+    text-align: center;
+    position: absolute;
+    top: 15%;
+    left: 1%;
+    right: 1%;
+  }
+}
