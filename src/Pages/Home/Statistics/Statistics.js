@@ -14,7 +14,7 @@ const Statistics = () => {
             <img className="h-16 w-16" src={appliedStudents} alt="" />
           </div>
           <div className="lg:-ml-8 -ml-16 -mt-2">
-            <p className="font-bold text-5xl">0</p>
+            <p className="font-bold text-5xl">275</p>
             <p>Total Applied</p>
           </div>
         </div>
@@ -23,7 +23,7 @@ const Statistics = () => {
             <ImBriefcase className="h-16 w-16"></ImBriefcase>
           </div>
           <div className="lg:-ml-8 -ml-16 -mt-2">
-            <p className="font-bold text-5xl">0</p>
+            <p className="font-bold text-5xl">345</p>
             <p>Live Tuition Jobs</p>
           </div>
         </div>
@@ -32,7 +32,7 @@ const Statistics = () => {
             <FcReading className="h-16 w-16"></FcReading>
           </div>
           <div className="lg:-ml-8 -ml-16 -mt-2">
-            <p className="font-bold text-5xl">0</p>
+            <p className="font-bold text-5xl">142</p>
             <p>Total Students</p>
           </div>
         </div>
@@ -41,7 +41,7 @@ const Statistics = () => {
             <GiTeacher className="h-16 w-16"></GiTeacher>
           </div>
           <div className="lg:-ml-8 -ml-16 -mt-2">
-            <p className="font-bold text-5xl">0</p>
+            <p className="font-bold text-5xl">877</p>
             <p>Total Tutors</p>
           </div>
         </div>
@@ -50,7 +50,7 @@ const Statistics = () => {
             <FcRating className="h-16 w-16"></FcRating>
           </div>
           <div className="lg:-ml-8 -ml-16 -mt-2">
-            <p className="font-bold text-5xl">0/5</p>
+            <p className="font-bold text-5xl">4.8/5</p>
             <p>Rating</p>
           </div>
         </div>
