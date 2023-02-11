@@ -18,10 +18,10 @@ const Connection = () => {
         </p>
         <div className="flex justify-around flex-wrap">
           <button className="text-start bg-black text-white px-4 py-2 rounded-md mb-5">
-            <img className="h-16 w-40" src={googlePlayStore} alt="" />
+            <img className="h-16 w-48" src={googlePlayStore} alt="" />
           </button>
           <button className="text-start bg-black text-white px-4 py-2 rounded-md mb-5">
-            <img className="h-16 w-40" src={appleStore} alt="" />
+            <img className="h-16 w-48" src={appleStore} alt="" />
           </button>
         </div>
       </div>

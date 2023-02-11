@@ -4,7 +4,7 @@ import logo from "../../../Assets/favicon.ico";
 
 const Footer = () => {
   return (
-    <footer aria-label="Site Footer" className="bg-green-300">
+    <footer aria-label="Site Footer" className="bg-gray-50 sm:pt-10 pt:10">
       <div className="mx-auto max-w-screen-xl px-4 pt-16 pb-6 sm:px-6 lg:px-8 lg:pt-24">
         <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
           <div>
@@ -348,23 +348,16 @@ const Footer = () => {
         <div className="mt-12 border-t  pt-6 border-gray-800">
           <div className="text-center sm:flex sm:justify-between sm:text-left">
             <p className="text-sm text-gray-500 ">
-              <span className="block sm:inline">All rights reserved.</span>
+              <span className="block sm:inline">Developed By </span>
 
               <a
                 className="inline-block text-teal-600 underline transition hover:text-teal-600/75 "
                 href="/"
               >
-                Terms & Conditions
+                Super Brain Studio
               </a>
 
               <span>&middot;</span>
-
-              <a
-                className="inline-block text-teal-600 underline transition hover:text-teal-600/75 "
-                href="/"
-              >
-                Privacy Policy
-              </a>
             </p>
 
             <p className="mt-4 text-sm text-gray-500  sm:order-first sm:mt-0">

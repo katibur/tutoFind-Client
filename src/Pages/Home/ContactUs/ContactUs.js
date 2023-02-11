@@ -2,7 +2,7 @@ import React from "react";
 
 const ContactUs = () => {
   return (
-    <div className="w-full bg-lime-50 -mt-10 lg:pt-40 pt-8 lg:-mb-4 pb-5">
+    <div className="w-full bg-lime-50 -mt-10 lg:py-40 py-8 lg:-mb-4 pb-5">
       <div className="text-center mx-auto lg:w-1/2 w-2/3 mb-5">
         <h1 className=" lg:text-7xl text-3xl font-bold my-3">
           Find Your Tutors

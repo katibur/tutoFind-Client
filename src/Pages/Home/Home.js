@@ -7,7 +7,7 @@ import Statistics from "./Statistics/Statistics";
 
 const Home = () => {
   return (
-    <div>
+    <div className="bg-lime-50">
       <HomeBanner></HomeBanner>
       <br />
       <Connection></Connection>
